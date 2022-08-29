@@ -36,3 +36,7 @@ Technologies I used in the game.
 </p>
 <br>
 
+## Details
+The aim of the game is to collect gold in general. As you collect gold, the number of gold in the upper left increases. The game consists of three levels. When we reach the end of the map, we pass to the new level. The game repeats like this. After the last level, the first level starts again. We have obstacles in the game. When you touch these obstacles, you fail and the level starts again.
+
+
