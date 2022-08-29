@@ -15,3 +15,12 @@ Technologies I used in the game.
 * Mixamo for Character I used <a href="https://www.mixamo.com/#/?page=1&query=timmy&type=Character">Timmy</a>
 * Low-Poly Simple Nature Pack <a href="https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153">JustCreate</a>
 <br>
+
+### Gameplay
+
+<br>
+
+<p align="center">
+  <img src = "readme/resim1.png">
+</p>
+<br>
