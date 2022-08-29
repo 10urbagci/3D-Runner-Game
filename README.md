@@ -19,8 +19,20 @@ Technologies I used in the game.
 ### Gameplay
 
 <br>
-
 <p align="center">
   <img src = "readme/resim1.png">
 </p>
 <br>
+
+<br>
+<p align="center">
+  <img src = "readme/resim2.png">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src = "readme/resim3.png">
+</p>
+<br>
+
